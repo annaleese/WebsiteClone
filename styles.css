@@ -1,16 +1,22 @@
-h1 {
+div1 img {
+    height :10em;
+    display:flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+div2 img {
+    height :20em;
+    width:50%;
+}
+div3{
     font-size: 23;
     font-family: "Work Sans","HelveticaNeue","Helvetica Neue",sans-serif;
 }
 
-img.resize {
-    width: 200px;
-    height: 40px;
+div4 img { height: 40em;
+    max-width: 80em;
 
 }
 
-img {
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
 }
